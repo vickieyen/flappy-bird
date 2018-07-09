@@ -14,3 +14,9 @@ https://developer.android.com/studio/install
 ```
  https://github.com/vickieyen/flappy-bird.git
 ```
+
+### Possible things to add
+- End to end tests
+- Diffrent levels 
+- Power ups
+- shop to buy things for the game
